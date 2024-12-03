@@ -16,5 +16,5 @@ const aboutMe = {
 ## My Activity
 ![](https://github-readme-stats.vercel.app/api?username=mahdibaderloo&show_icons=true&theme=tokyonight)
 
-## My Project Languages
+## My Projects Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo&size_weight=0.5&count_weight=0.5)
