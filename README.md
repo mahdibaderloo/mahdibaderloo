@@ -1,5 +1,7 @@
 ### Hi there 👋
-## About Me
+<br>
+
+## About Me :
 
 ```javascript
 const aboutMe = {
@@ -12,9 +14,12 @@ const aboutMe = {
     isLearning: true,
 }
 ```
+<br>
 
-## My Activity
+## My Activity :
 ![](https://github-readme-stats.vercel.app/api?username=mahdibaderloo&show_icons=true&theme=tokyonight)
 
-## My Projects Languages
+<br>
+
+## My Projects Languages :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo&size_weight=0.5&count_weight=0.5)
