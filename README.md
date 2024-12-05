@@ -1,14 +1,17 @@
-### **Hi there** 👋
+# **Hi there** 👋
 <br>
 
-## About Me :
+<img align="center" src="github-user-contribution.svg" />
+<br>
+
+## About Me 👨‍💻 :
 
 ```javascript
 const aboutMe = {
     id: 1,
     name: 'Mahdi Baderloo',
     birth: 2002,
-    level: 'Junior Front-End Developer',
+    level: 'Junior Front-End Developer 💻',
     skills: 'Html Css Js Tailwind',
     uni: 'Karaj (Computer)'
     isLearning: true,
