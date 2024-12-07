@@ -50,13 +50,15 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/e7afa5dca36c11112802840a2a983fb4813a4e94/personalcard-svgrepo-com.svg" /> Contact Me : <h3/>
     
-<a href="https://www.instagram.com/mahdi.baderloo">
-<img width="68px" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/7fe224ebeb97828288f52a6f1107519cc7769bcf/instagram-social-media-network-communication-interaction-connection-svgrepo-com.svg" />
-<a/>
-<a href="https://t.me/mahdibaderloo">
-<img width="70px" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/7fe224ebeb97828288f52a6f1107519cc7769bcf/telegram-svgrepo-com.svg" />
-<a/>
-<a href="https://mailto:mahdi.baderloo.230@gmail.com">
-<img width="70px" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/71c94af56f5b89ded1b7dbe5acebc5a6d1ea29d1/gmail-svgrepo-com.svg" />
-<a/>
+<p align="center">
+    <a href="https://www.instagram.com/mahdi.baderloo">
+    <img src="https://img.shields.io/badge/Instagram-mahdi.baderloo-purple?style=flat&logo=instagram" />
+    <a/>
+    <a href="https://t.me/mahdibaderloo">
+    <img src="https://img.shields.io/badge/Telegram-mahdibaderloo-blue?style=flat&logo=telegram" />
+    <a/>
+    <a href="https://mailto:mahdi.baderloo.230@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mahdi.baderloo.230@gmail.com-red?style=flat&logo=gmail" />
+    <a/>
+<p/>
 
