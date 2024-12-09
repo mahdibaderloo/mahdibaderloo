@@ -31,6 +31,14 @@ const aboutMe = {
 <br>
 <br>
 
+<h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/48c7e3f678a731d2b6bfa835cedc9ccc2d34a161/coding.svg" /> My Projects Languages : <h3/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo&langs_count=8)
+
+<br>
+<br>
+<br>
+
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/e7afa5dca36c11112802840a2a983fb4813a4e94/connection-internet-communication-svgrepo-com.svg" /> Technologies I Use : <h3/>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
