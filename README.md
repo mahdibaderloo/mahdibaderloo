@@ -68,5 +68,8 @@ const aboutMe = {
     <a href="https://mailto:mahdi.baderloo.230@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mahdi.baderloo.230@gmail.com-red?style=flat&logo=gmail" />
     <a/>
+    <a href="https://gitlab.com/mahdibaderloo">
+    <img src="https://img.shields.io/badge/Gitlab-mahdibaderloo-orange?style=flat&logo=gitlab" />
+    <a/>
 <p/>
 
