@@ -1,6 +1,6 @@
 <h3>Hi There <img width="50px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/f1c174bc2eda5816614ee5184f948e3633f85786/hand-shake-svgrepo-com.svg" /><h3/>
 
-<img align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/a6d8a7feb33db2bf8d3cdb180ffb57be4fa0ec40/github-user-contribution.svg" />
+<img align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/9d757700a06d79778007bcafcd2c2b26e663bf8c/github-user-contribution.svg" />
 
 <br>
 <br>
@@ -33,7 +33,7 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/48c7e3f678a731d2b6bfa835cedc9ccc2d34a161/coding.svg" /> My Projects Languages : <h3/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo&langs_count=8)
+
 
 <br>
 <br>
