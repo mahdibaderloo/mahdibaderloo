@@ -14,7 +14,7 @@ const aboutMe = {
     name: 'Mahdi Baderloo',
     birth: 2002,
     level: 'Junior Front-End Developer 💻',
-    skills: "Html", "Css", "Js", "Tailwind", "React",
+    skills: "Html Css Js Tailwind React",
     uni: 'Karaj (Computer)'
     isLearning: true,
 }
