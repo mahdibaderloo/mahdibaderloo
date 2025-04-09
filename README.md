@@ -11,13 +11,13 @@
 ```javascript
 const aboutMe = {
     id: 1,
-    name: 'Mahdi Baderloo',
+    name: "Mahdi Baderloo",
     birth: 2002,
-    level: 'Junior Front-End Developer 💻',
+    level: "Junior Front-End Developer 💻",
     skills: "Html Css Js Tailwind React",
-    uni: 'Karaj (Computer)'
+    uni: "Karaj (Computer)",
     isLearning: true,
-    bio: 'Self-taught front-end developer with 2 years of daily practice and hands-on learning. Passionate about creating responsive, interactive UIs using modern web technologies. Currently focused on mastering React and building real-world projects'
+    bio: "Self-taught front-end developer with 2 years of daily practice and hands-on learning. Passionate about creating responsive, interactive UIs using modern web technologies. Currently focused on mastering React and building real-world projects"
 }
 ```
 <br>
