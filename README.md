@@ -17,6 +17,7 @@ const aboutMe = {
     skills: "Html Css Js Tailwind React",
     uni: 'Karaj (Computer)'
     isLearning: true,
+    bio: 'Self-taught front-end developer with 2 years of daily practice and hands-on learning. Passionate about creating responsive, interactive UIs using modern web technologies. Currently focused on mastering React and building real-world projects'
 }
 ```
 <br>
