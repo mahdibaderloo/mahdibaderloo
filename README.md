@@ -17,9 +17,16 @@ const aboutMe = {
     skills: "Html Css Js Tailwind React",
     uni: "Karaj (Computer)",
     isLearning: true,
-    bio: "Self-taught front-end developer with 2 years of daily practice and hands-on learning. Passionate about creating responsive, interactive UIs using modern web technologies. Currently focused on mastering React and building real-world projects"
 }
 ```
+<br>
+<br>
+<br>
+
+<h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/0a978dc948dedf10888289fa6d91139cd5ab6dee/pen-2-svgrepo-com.svg" /> Bio : <h3/>
+    
+*Self-taught front-end developer with 2 years of daily practice and hands-on learning. Passionate about creating responsive, interactive UIs using modern web technologies. Currently focused on mastering React and building real-world projects*
+    
 <br>
 <br>
 <br>
