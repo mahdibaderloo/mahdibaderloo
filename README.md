@@ -33,7 +33,7 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/69e285059d61381f5a0110b67d0050d536a210f3/chart-svgrepo-com.svg" /> My Activity : <h3/>
 
-![](https://github-readme-stats.vercel.app/api?username=mahdibaderloo&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-mirror.vercel.app/api?username=mahdibaderloo&show_icons=true&theme=tokyonight)
 
 <br>
 <br>
