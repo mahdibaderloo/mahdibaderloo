@@ -41,7 +41,7 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/48c7e3f678a731d2b6bfa835cedc9ccc2d34a161/coding.svg" /> My Projects Languages : <h3/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo">
+<img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=mahdibaderloo">
 
 <br>
 <br>
