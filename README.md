@@ -13,8 +13,8 @@ const aboutMe = {
     id: 1,
     name: "Mahdi Baderloo",
     birth: 2002,
-    level: "Front-End Developer 💻",
-    skills: "Html Css JavaScript Tailwind React TypeScript",
+    level: "Mid-level Front-End Developer 💻",
+    skills: "Html Css JavaScript Tailwind React TypeScript Java Spring-boot JWT SQL",
     uni: "Karaj (Computer)",
     isLearning: true,
 }
@@ -33,7 +33,7 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/69e285059d61381f5a0110b67d0050d536a210f3/chart-svgrepo-com.svg" /> My Activity : <h3/>
 
-![](https://github-readme-stats-mirror.vercel.app/api?username=mahdibaderloo&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=mahdibaderloo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <br>
 <br>
@@ -41,7 +41,7 @@ const aboutMe = {
 
 <h3><img width="45px" align="center" src="https://raw.githubusercontent.com/mahdibaderloo/mahdibaderloo/48c7e3f678a731d2b6bfa835cedc9ccc2d34a161/coding.svg" /> My Projects Languages : <h3/>
 
-<img src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=mahdibaderloo">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaderloo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 <br>
@@ -52,10 +52,7 @@ const aboutMe = {
 <!--
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -85,8 +82,14 @@ const aboutMe = {
 ![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br>
