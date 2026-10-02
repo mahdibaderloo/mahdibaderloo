@@ -23,7 +23,7 @@ const aboutMe = {
     skills: `
         HTML CSS JavaScript
         Tailwind CSS React TypeScript
-        Java Spring Boot JWT SQL
+        Java Spring-boot JWT SQL
         Docker CI/CD
     `,
     uni: "Karaj (Computer)",
